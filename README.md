@@ -2,7 +2,7 @@
 
 **Contact Information:**
 - **Phone**: 
-- **Email**: 
+- *Email**: 
 
 
   **Relevant Coursework**:  
